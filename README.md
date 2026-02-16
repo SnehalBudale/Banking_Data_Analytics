@@ -4,7 +4,7 @@ This project presents an interactive Tableau dashboard designed to analyze stake
 
 ## Key features include:
 
-KPI tracking for Total Premium (245.9B), Equity Value Created (230.8B), and Stakeholder Age
+KPI tracking for Total Premium, Equity Value Created, and Stakeholder Age
 
 Analysis of value created by different insurer channels (Bancassurance, Brokers, Partners, etc.)
 
